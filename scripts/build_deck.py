@@ -238,6 +238,7 @@ def build_deck(examples, output_path):
 <script>
 Reveal.initialize({{
   keyboard: true,
+  transition: "none",
   slideNumber: "c/t",
   center: false,
   width: 1200,
